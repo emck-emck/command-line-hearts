@@ -3,7 +3,7 @@ I wrote this project in June 2022.
 
 
 I thought about using Maven to implement the code structure but decided that for four basic Java files it was overkill.
-There are Powershell and bash scripts used to compile and execute the code.
+There are Powershell and BAsh scripts used to compile and execute the code.
 
 There are four classes: Main, Game, Player, and Card.
 
@@ -32,3 +32,4 @@ The user can type "quit" at any time to exit the game.
 
 I made this program in Java specifically because I had attempted to create this once in high-school. I made it out of nostalgia really, and to see if I could do it better this time.
 The code can be found in the legacy folder. I have restored it to a working condition (it was all in a text file in my gmail) but have not modified the code.
+The Powershell and BAsh scripts have been added to make running the legacy script easier.
