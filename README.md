@@ -1,4 +1,3 @@
-#command-line-hearts
 This is a command-line version of the card game Hearts written in Java. It's a simple project; it took me about a week.
 I wrote this project in June 2022.
 
