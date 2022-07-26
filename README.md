@@ -1,6 +1,7 @@
 This is a command-line version of the card game Hearts written in Java. It's a simple project; it took me about a week.
 I wrote this project in June 2022.
 
+
 I thought about using Maven to implement the code structure but decided that for four basic Java files it was overkill.
 There are Powershell and bash scripts used to compile and execute the code.
 
@@ -27,3 +28,7 @@ That means the game does not work in environments that do not have consoles to r
 
 The game ends when a player reaches 100 points. The winner is the person with the least points.
 The user can type "quit" at any time to exit the game.
+
+
+I made this program in Java specifically because I had attempted to create this once in high-school. I made it out of nostalgia really, and to see if I could do it better this time.
+The code can be found in the legacy folder. I have restored it to a working condition (it was all in a text file in my gmail) but have not modified the code.
